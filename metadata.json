@@ -1,0 +1,6 @@
+{
+  "name": "AI Long Video Generator",
+  "description": "Transform long text, articles, and scripts into cinematic multi-scene videos with AI storyboarding, voiceover narration, motion graphics, and video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
